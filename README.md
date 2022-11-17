@@ -1,2 +1,3 @@
-# local-dev-php74
- localでphpをいじる環境
+# local-dev-[app_name]
+
+app_name のローカル開発環境
